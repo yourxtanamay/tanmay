@@ -6,3 +6,4 @@ print(d)
 ##it is my file#
 a="hello world"
 print(a)
+p= hello world
